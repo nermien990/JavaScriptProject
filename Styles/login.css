@@ -1,0 +1,45 @@
+body {
+  background-color: #eee;
+}
+form {
+  width: 400px;
+  margin: 60px auto;
+  background-color: white;
+  padding: 60px;
+}
+label,
+input,
+a {
+  display: block;
+}
+label {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+  margin: 12px 0px;
+  color: rgb(61, 56, 56);
+}
+input {
+  width: 390px;
+  padding: 8px;
+}
+a {
+  margin: 12px 0px;
+  color: rgb(61, 56, 56);
+}
+#sign_in,
+#register,
+#clear {
+  font-size: 16px;
+  margin-top: 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 6px;
+  border: 0px;
+  color: white;
+  background-color: #ff5700;
+}
+.gotToHome {
+  text-align: center;
+  margin-top: 60px;
+}
